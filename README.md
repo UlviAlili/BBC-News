@@ -1,2 +1,2 @@
 # BBC-News
-Create BBC News websites
+Created BBC News website's clone using HTML and CSS
